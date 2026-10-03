@@ -99,7 +99,7 @@ Pydantic performs the validation for us.
 Look for:
 
 ```python
-extra="forbid"
+extra = "forbid"
 ```
 
 This tells Pydantic:
